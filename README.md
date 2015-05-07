@@ -1,2 +1,3 @@
 # hello-world
-Hello World test
+Hello World test! 
+This is how a commit is done.
